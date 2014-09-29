@@ -6,9 +6,9 @@
 //  Copyright (c) 2013 konoma GmbH. All rights reserved.
 //
 
-#import <XCTest/XCTest.h>
-
-
-@interface XCTestCase (MCKContextLoading)
-
-@end
+//#import <XCTest/XCTest.h>
+//
+//
+//@interface XCTestCase (MCKContextLoading)
+//
+//@end

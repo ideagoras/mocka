@@ -28,6 +28,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/frenetisch-applaudierend/mocka.git", :tag => "0.7.0" }
   s.source_files = 'Sources'
   s.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '$(PLATFORM_DIR)/Developer/Library/Frameworks' }
-  s.frameworks = 'Foundation', 'XCTest'
+  s.frameworks = 'Foundation'
   s.requires_arc = true
 end
