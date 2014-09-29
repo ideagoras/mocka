@@ -27,5 +27,5 @@
 //    [self mck_loadContext_invokeTest]; // invoke original method
 //    [MCKMockingContext setCurrentContext:nil];
 //}
-
-@end
+//
+//@end
